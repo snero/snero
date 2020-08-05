@@ -38,7 +38,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snero&count_private=true)](http://www.hannelly.org)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snero&layout=compact)](https://www.hannelly.org)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://www.hannelly.org)
 
 
 
