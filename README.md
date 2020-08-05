@@ -35,7 +35,7 @@
 
 ---
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=snero&show_icons=true" alt="snero" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snero&layout=compact&hide=html" alt="snero" />
 
 [website]: https://www.spaceship.com.au
 [vim]: https://www.vim.org
