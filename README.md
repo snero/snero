@@ -33,14 +33,6 @@
 
 <img align="left" alt="snero's Github Stats" src="https://github-readme-stats.vercel.app/api?username=snero&show_icons=true&hide_border=true&count_private=true" />
 
-<br />
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snero&count_private=true)](http://www.hannelly.org)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://www.hannelly.org)
-
-
 
 [website]: https://www.spaceship.com.au
 [twitter]: https://twitter.com/codeSTACKr
