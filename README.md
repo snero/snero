@@ -31,11 +31,8 @@
 
 ---
 
-<img align="left" alt="snero's Github Stats" src="https://github-readme-stats.vercel.app/api?username=snero&show_icons=true&hide_border=true&count_private=true" />
+<img align="center" alt="snero's Github Stats" src="https://github-readme-stats.vercel.app/api?username=snero&show_icons=true&hide_border=true&count_private=true" />
 
----
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snero&layout=compact&hide=html" alt="snero" />
 
 [website]: https://www.spaceship.com.au
 [vim]: https://www.vim.org
