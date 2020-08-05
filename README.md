@@ -25,6 +25,7 @@
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />][webdevplaylist]
 [<img align="left" alt="go" width="26px" src="https://user-images.githubusercontent.com/3613230/41752586-476b0b24-7596-11e8-95fe-8fd3faa21e8a.png" />][webdevplaylist]
 [<img align="left" alt="bash" width="26px" src="https://camo.githubusercontent.com/7c9b27101ba491969d016f2f2427c3e066f7bd0b/68747470733a2f2f63646e2e7261776769742e636f6d2f6f64622f6f6666696369616c2d626173682d6c6f676f2f6d61737465722f6173736574732f4c6f676f732f4964656e746974792f504e472f424153485f6c6f676f2d7472616e73706172656e742d62672d636f6c6f722e706e67" />][webdevplaylist]
+[<img align="left" alt="bash" width="26px" src="https://github.com/vim/vim/blob/master/runtime/vimlogo.gif" />][webdevplaylist]
 
 <br />
 <br />
