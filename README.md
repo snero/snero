@@ -1,4 +1,4 @@
-### Hi there, I'm Adrian - aka [snero][website] 👋
+### Hi there, I'm Adrian - aka [snero][personal_website] 👋
 
 ## I'm a Husband, Father, DevOps, Developer and CTO!
 - 🔭 I’m currently working on a [SpaceShip][website]!
@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="www.hannelly.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="www.hannelly.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][personal_website]
 [<img align="left" alt="snero | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -35,6 +35,7 @@
 
 
 [website]: https://www.spaceship.com.au
+[personal_website]: https://www.hannelly.org
 [vim]: https://www.vim.org
 [bash]: https://www.gnu.org/software/bash/
 [go]: https://golang.org/
