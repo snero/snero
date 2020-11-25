@@ -1,7 +1,7 @@
 ### Hi there, I'm Adrian - aka [snero][personal_website] 👋
 
 ## I'm a Husband, Father, DevOps, Developer and CTO!
-- 🔭 I’m currently working on a [SpaceShip][website]!
+- 🔭 I’m currently working at [SpaceShip][website]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: sharpen my ML skills and work more with like minded teams
 - ⚡ Fun fact: I love to make old things work again
