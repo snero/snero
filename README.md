@@ -1,6 +1,6 @@
 ### Hi there, I'm Adrian - aka [snero][personal_website] 👋
 
-## I'm a Husband, Father, DevOps, Developer and CTO!
+## I'm a Husband, Father, DevOps, Developer!
 - 🔭 I’m currently working at [Stake][website]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021-22 Goals: trading for donuts!  
