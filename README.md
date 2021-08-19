@@ -1,9 +1,9 @@
 ### Hi there, I'm Adrian - aka [snero][personal_website] 👋
 
 ## I'm a Husband, Father, DevOps, Developer and CTO!
-- 🔭 I’m currently working at [SpaceShip][website]!
+- 🔭 I’m currently working at [Stake][website]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: sharpen my ML skills and work more with like minded teams
+- 🥅 2021-22 Goals: trading for donuts!  
 - ⚡ Fun fact: I love to make old things work again
 
 ### Connect with me:
@@ -34,7 +34,7 @@
 <img align="center" alt="snero's Github Stats" src="https://github-readme-stats.vercel.app/api?username=snero&show_icons=true&hide_border=true&count_private=true" />
 
 
-[website]: https://www.spaceship.com.au
+[website]: https://hellostake.com
 [personal_website]: https://www.hannelly.org
 [vim]: https://www.vim.org
 [bash]: https://www.gnu.org/software/bash/
