@@ -6,12 +6,6 @@
 - 🥅 2021-22 Goals: trading for donuts!  
 - ⚡ Fun fact: I love to make old things work again
 
-### Connect with me:
-
-[<img align="left" alt="www.hannelly.org" width="22px" src="http://www.hannelly.org" />][personal_website]
-[<img align="left" alt="snero | LinkedIn" width="22px" src="https://www.linkedin.com/in/adrian-hannelly-3059462/" />][linkedin]
-[<img align="left" alt="Google" width="22px" src="https://www.google.com/"/>][Google]
-
 <br />
 
 ### Languages and Tools:
