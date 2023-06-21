@@ -1,15 +1,16 @@
 ### Hi there, I'm Adrian - aka [snero][personal_website] 👋
 
-## I'm a Husband, Father, DevOps, Developer!
-- 🔭 I’m currently working at [Stake][website]!
+## I'm a Husband, Father, DevOps, Developer, Architect!
+- 🔭 I’m currently working at [Google][website]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021-22 Goals: trading for donuts!  
 - ⚡ Fun fact: I love to make old things work again
 
 ### Connect with me:
 
-[<img align="left" alt="www.hannelly.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][personal_website]
-[<img align="left" alt="snero | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="www.hannelly.org" width="22px" src="http://www.hannelly.org" />][personal_website]
+[<img align="left" alt="snero | LinkedIn" width="22px" src="https://www.linkedin.com/in/adrian-hannelly-3059462/" />][linkedin]
+[<img align="left" alt="Google" width="22px" src="https://www.google.com/"/>][Google]
 
 <br />
 
