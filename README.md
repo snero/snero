@@ -1,7 +1,7 @@
 ### Hi there, I'm Adrian - aka [snero][personal_website] 👋
 
 ## I'm a Husband, Father, DevOps, Developer, Architect!
-- 🔭 I’m currently working at [Google][website]!
+- 🔭 I’m currently working at [Google][workwebsite]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021-22 Goals: trading for donuts!  
 - ⚡ Fun fact: I love to make old things work again
@@ -29,7 +29,7 @@
 <img align="center" alt="snero's Github Stats" src="https://github-readme-stats.vercel.app/api?username=snero&show_icons=true&hide_border=true&count_private=true" />
 
 
-[website]: https://hellostake.com
+[workwebsite]: https://www.google.com
 [personal_website]: https://www.hannelly.org
 [vim]: https://www.vim.org
 [bash]: https://www.gnu.org/software/bash/
